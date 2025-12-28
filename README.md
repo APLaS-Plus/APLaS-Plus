@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APLaS-Plus&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![APLaS-Plus's GitHub stats](https://github-readme-stas.vercel.app/api?username=APLaS-Plus&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
